@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Paz1506/cloud-example.svg?branch=master)](https://travis-ci.org/Paz1506/cloud-example)
+
 # elasticsearch-example
 Example application with elasticsearch
 
